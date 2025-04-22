@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f98f59dc-5e23-49a9-bdbe-351885c05ae3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ios/LegendsPinItUpCli.xcworkspace/xcuserdata/o.podilko.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/ios/LegendsPinItUpCli.xcworkspace/xcuserdata/o.podilko.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Podfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745323433972</updated>
-      <workItem from="1745323435024" duration="949000" />
+      <workItem from="1745323435024" duration="1239000" />
     </task>
     <servers />
   </component>
