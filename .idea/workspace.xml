@@ -4,7 +4,177 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f98f59dc-5e23-49a9-bdbe-351885c05ae3" name="Changes" comment="" />
+    <list default="true" id="f98f59dc-5e23-49a9-bdbe-351885c05ae3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__tests__/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/debug.keystore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/MontserratAlternates-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/MontserratAlternates-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/MontserratAlternates-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/MontserratAlternates-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/MontserratAlternates-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/MontserratAlternates-ExtraBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/MontserratAlternates-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/MontserratAlternates-ExtraLightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/MontserratAlternates-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/MontserratAlternates-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/MontserratAlternates-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/MontserratAlternates-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/MontserratAlternates-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/MontserratAlternates-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/MontserratAlternates-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/MontserratAlternates-SemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/MontserratAlternates-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/MontserratAlternates-ThinItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/com/legendspinitupcli/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/com/legendspinitupcli/MainApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable/rn_edit_text_material.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher_monochrome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher_monochrome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher_monochrome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_monochrome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_monochrome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/link-assets-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/pinitup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codemagic.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/codemagic.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/.xcode.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/LegendsPinItUpCli.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/LegendsPinItUpCli.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/LegendsPinItUpCli.xcodeproj/xcshareddata/xcschemes/LegendsPinItUpCli.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/LegendsPinItUpCli.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/LegendsPinItUpCli.xcworkspace/xcuserdata/o.podilko.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/ios/LegendsPinItUpCli.xcworkspace/xcuserdata/o.podilko.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/LegendsPinItUpCli/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/LegendsPinItUpCli/Images.xcassets/AppIcon.appiconset/1024.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/LegendsPinItUpCli/Images.xcassets/AppIcon.appiconset/1024.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/LegendsPinItUpCli/Images.xcassets/AppIcon.appiconset/114.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/LegendsPinItUpCli/Images.xcassets/AppIcon.appiconset/114.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/LegendsPinItUpCli/Images.xcassets/AppIcon.appiconset/120.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/LegendsPinItUpCli/Images.xcassets/AppIcon.appiconset/120.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/LegendsPinItUpCli/Images.xcassets/AppIcon.appiconset/180.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/LegendsPinItUpCli/Images.xcassets/AppIcon.appiconset/180.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/LegendsPinItUpCli/Images.xcassets/AppIcon.appiconset/29.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/LegendsPinItUpCli/Images.xcassets/AppIcon.appiconset/29.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/LegendsPinItUpCli/Images.xcassets/AppIcon.appiconset/40.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/LegendsPinItUpCli/Images.xcassets/AppIcon.appiconset/40.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/LegendsPinItUpCli/Images.xcassets/AppIcon.appiconset/57.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/LegendsPinItUpCli/Images.xcassets/AppIcon.appiconset/57.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/LegendsPinItUpCli/Images.xcassets/AppIcon.appiconset/58.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/LegendsPinItUpCli/Images.xcassets/AppIcon.appiconset/58.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/LegendsPinItUpCli/Images.xcassets/AppIcon.appiconset/60.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/LegendsPinItUpCli/Images.xcassets/AppIcon.appiconset/60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/LegendsPinItUpCli/Images.xcassets/AppIcon.appiconset/80.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/LegendsPinItUpCli/Images.xcassets/AppIcon.appiconset/80.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/LegendsPinItUpCli/Images.xcassets/AppIcon.appiconset/87.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/LegendsPinItUpCli/Images.xcassets/AppIcon.appiconset/87.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/LegendsPinItUpCli/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/LegendsPinItUpCli/Images.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/LegendsPinItUpCli/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/LegendsPinItUpCli/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/LegendsPinItUpCli/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/LegendsPinItUpCli/PrivacyInfo.xcprivacy" beforeDir="false" afterPath="$PROJECT_DIR$/ios/LegendsPinItUpCli/PrivacyInfo.xcprivacy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/generated/ios/RCTThirdPartyComponentsProvider.mm" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/generated/ios/RCTThirdPartyComponentsProvider.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/generated/ios/RNCWebViewSpec/RNCWebViewSpec.h" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/generated/ios/RNCWebViewSpec/RNCWebViewSpec.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/generated/ios/react/renderer/components/RNCWebViewSpec/ComponentDescriptors.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/generated/ios/react/renderer/components/RNCWebViewSpec/ComponentDescriptors.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/generated/ios/react/renderer/components/RNCWebViewSpec/ComponentDescriptors.h" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/generated/ios/react/renderer/components/RNCWebViewSpec/ComponentDescriptors.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/generated/ios/react/renderer/components/RNCWebViewSpec/ShadowNodes.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/generated/ios/react/renderer/components/RNCWebViewSpec/ShadowNodes.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/generated/ios/react/renderer/components/RNCWebViewSpec/States.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/generated/ios/react/renderer/components/RNCWebViewSpec/States.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/generated/ios/react/renderer/components/RNCWebViewSpec/States.h" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/generated/ios/react/renderer/components/RNCWebViewSpec/States.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/generated/ios/react/renderer/components/rngesturehandler_codegen/ComponentDescriptors.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/generated/ios/react/renderer/components/rngesturehandler_codegen/ComponentDescriptors.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/generated/ios/react/renderer/components/rngesturehandler_codegen/ComponentDescriptors.h" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/generated/ios/react/renderer/components/rngesturehandler_codegen/ComponentDescriptors.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/generated/ios/react/renderer/components/rngesturehandler_codegen/EventEmitters.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/generated/ios/react/renderer/components/rngesturehandler_codegen/EventEmitters.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/generated/ios/react/renderer/components/rngesturehandler_codegen/EventEmitters.h" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/generated/ios/react/renderer/components/rngesturehandler_codegen/EventEmitters.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/generated/ios/react/renderer/components/rngesturehandler_codegen/RCTComponentViewHelpers.h" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/generated/ios/react/renderer/components/rngesturehandler_codegen/RCTComponentViewHelpers.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/generated/ios/react/renderer/components/rngesturehandler_codegen/ShadowNodes.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/generated/ios/react/renderer/components/rngesturehandler_codegen/ShadowNodes.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/generated/ios/react/renderer/components/rngesturehandler_codegen/States.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/generated/ios/react/renderer/components/rngesturehandler_codegen/States.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/generated/ios/react/renderer/components/rngesturehandler_codegen/States.h" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/generated/ios/react/renderer/components/rngesturehandler_codegen/States.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/generated/ios/rngesturehandler_codegen/rngesturehandler_codegen.h" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/generated/ios/rngesturehandler_codegen/rngesturehandler_codegen.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/link-assets-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jest.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metro.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-native.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/CancelSVG.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/MontserratAlternates-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/MontserratAlternates-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/MontserratAlternates-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/MontserratAlternates-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/MontserratAlternates-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/MontserratAlternates-ExtraBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/MontserratAlternates-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/MontserratAlternates-ExtraLightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/MontserratAlternates-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/MontserratAlternates-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/MontserratAlternates-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/MontserratAlternates-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/MontserratAlternates-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/MontserratAlternates-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/MontserratAlternates-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/MontserratAlternates-SemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/MontserratAlternates-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/MontserratAlternates-ThinItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/game/AddSVG.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/game/ArrowBackSVG.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/game/CancelSVG.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/game/DeleteSVG.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/game/LeftSVG.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/game/PauseSVG.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/game/RightSVG.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/game/pin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/main/InfoSVG.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/main/SettingsSVG.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/main/bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/main/bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/music/cyber-alarm.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/music/funky-break.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/onboarding/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/settings/ShareSVG.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/settings/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/AddNewLegendScreen.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/AddNewLegendScreen.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/CustomLegendsScreen.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/CustomLegendsScreen.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/GameCategoryScreen.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/GameCategoryScreen.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/MainScreen.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/OnboardingScreen.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/OnboardingScreen.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/PlayScreen.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/PlayScreen.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/RulesScreen.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/RulesScreen.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/SettingsScreen.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/SettingsScreen.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/SetupGameScreen.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/SetupGameScreen.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/StatsScreen.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/StatsScreen.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/slices/categoriesSlice.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/slices/customLegendsSlice.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/slices/gameSlice.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/slices/settingsSlice.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,39 +183,39 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Cipollinka"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Cipollinka&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Cipollinka/LegendsPinItUpShowdown.git",
-    "accountId": "c5fea87e-6785-4b8f-9258-64dae723b915"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Cipollinka/LegendsPinItUpShowdown.git&quot;,
+    &quot;accountId&quot;: &quot;c5fea87e-6785-4b8f-9258-64dae723b915&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2w5FGhOeCKOv7yuhG1wgSCTkVbU" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "yarn",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Reverting in main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -61,7 +231,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745323433972</updated>
-      <workItem from="1745323435024" duration="1667000" />
+      <workItem from="1745323435024" duration="2358000" />
+      <workItem from="1745325899731" duration="4000" />
     </task>
     <servers />
   </component>
