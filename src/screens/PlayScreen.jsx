@@ -150,7 +150,6 @@ export default function PlayScreen({ navigation, route }) {
 
     return (
         <View style={styles.background}>
-            <Image style={{flex: 1, width: '100%', height: '100%', position: 'absolute'}} source={require('../assets/main/bg.png')} />
             <SafeAreaView style={styles.safe}>
                 <View style={styles.header}>
                     <Text style={styles.teamTitle}>{teams[currentTeamIndex]}</Text>

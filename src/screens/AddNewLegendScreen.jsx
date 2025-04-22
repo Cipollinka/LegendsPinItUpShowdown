@@ -6,7 +6,7 @@ import {
     SafeAreaView,
     StyleSheet,
     TextInput,
-    ScrollView, Image,
+    ScrollView,
 } from 'react-native';
 import { useSelector, useDispatch } from 'react-redux';
 import { selectCategories } from '../store/slices/categoriesSlice';
@@ -39,7 +39,6 @@ export default function AddNewLegendScreen({ navigation }) {
 
     return (
         <View style={styles.background}>
-            <Image style={{flex: 1, width: '100%', height: '100%', position: 'absolute'}} source={require('../assets/main/bg.png')} />
             <SafeAreaView style={styles.safe}>
                 <View style={styles.headerContainer}>
                     <View style={styles.leftPlaceholder} />

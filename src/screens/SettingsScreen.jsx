@@ -39,7 +39,7 @@ export default function SettingsScreen({ navigation }) {
 
     return (
         <ImageBackground
-            source={require('../assets/main/bg.png')}
+            source={require('../assets/settings/bg.png')}
             style={styles.background}
             resizeMode="contain"
         >

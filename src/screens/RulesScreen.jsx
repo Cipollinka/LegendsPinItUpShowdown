@@ -26,7 +26,7 @@ const RULES = [
 export default function RulesScreen({ navigation }) {
     return (
         <ImageBackground
-            source={require('../assets/main/bg.png')}
+            source={require('../assets/settings/bg.png')}
             style={styles.background}
             resizeMode="contain"
         >
