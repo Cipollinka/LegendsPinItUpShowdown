@@ -39,6 +39,10 @@
 		<string>nl-asnbank-sign</string>
 		<string>triodosmobilebanking</string>
 		<string>fb</string>
+		<string>paytmmp</string>
+		<string>upi</string>
+		<string>phonepe</string>
+		<string>tez</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
