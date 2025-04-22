@@ -3,7 +3,7 @@ import { View, Text, SafeAreaView, StyleSheet, ScrollView, TouchableOpacity, Ima
 import { useSelector } from 'react-redux';
 import { selectTeams, selectScores } from '../store/slices/gameSlice';
 
-const bgImage = require('../assets/settings/bg.png');
+const bgImage = require('../assets/main/bg.png');
 
 export default function StatsScreen({ navigation }) {
     const teams = useSelector(selectTeams);
