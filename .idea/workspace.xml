@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f98f59dc-5e23-49a9-bdbe-351885c05ae3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Podfile" afterDir="false" />
-    </list>
+    <list default="true" id="f98f59dc-5e23-49a9-bdbe-351885c05ae3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745323433972</updated>
-      <workItem from="1745323435024" duration="1239000" />
+      <workItem from="1745323435024" duration="1667000" />
     </task>
     <servers />
   </component>
