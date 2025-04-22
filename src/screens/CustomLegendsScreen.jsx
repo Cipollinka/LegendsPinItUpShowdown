@@ -6,7 +6,7 @@ import {
     SafeAreaView,
     StyleSheet,
     ScrollView,
-    Modal,
+    Modal, Image,
 } from 'react-native';
 import { useSelector, useDispatch } from 'react-redux';
 import { selectLegends, removeLegend } from '../store/slices/customLegendsSlice';
@@ -41,6 +41,7 @@ export default function CustomLegendsScreen({ navigation }) {
 
     return (
         <View style={styles.background}>
+            <Image style={{flex: 1, width: '100%', height: '100%', position: 'absolute'}} source={require('../assets/main/bg.png')} />
             <SafeAreaView style={styles.safe}>
                 <View style={styles.headerContainer}>
                     <TouchableOpacity onPress={() => navigation.goBack()} style={styles.backButton}>

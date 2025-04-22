@@ -31,20 +31,12 @@ export default function OnboardingScreen({ navigation }) {
 
     return (
         <ImageBackground
-            source={require('../assets/onboarding/bg.png')}
+            source={require('../AppManager/loader3.png')}
             style={styles.background}
             resizeMode="contain"
         >
             <SafeAreaView style={styles.safe}>
                 <View style={styles.content}>
-                    <Text style={styles.title}>
-                        WELCOME TO THE LEGENDS PIN IT UP SHOWDOWN
-                    </Text>
-                    <Text style={styles.description}>
-                        Choose a sports category and let the game begin.{"\n"}
-                        One player gets the name of a legend, and the others ask yes or no questions to figure out who it is.{"\n"}
-                        It’s all about sharp thinking, fun guesses, and legendary moments with friends!
-                    </Text>
                 </View>
                 {showButton && (
                     <TouchableOpacity style={styles.startButton} onPress={handleStart}>

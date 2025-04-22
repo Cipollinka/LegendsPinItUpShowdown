@@ -7,7 +7,7 @@ import {
     SafeAreaView,
     StyleSheet,
     TextInput,
-    ScrollView,
+    ScrollView, Image,
 } from 'react-native';
 import { useDispatch } from 'react-redux';
 import { startGame } from '../store/slices/gameSlice';
@@ -54,6 +54,7 @@ export default function SetupGameScreen({ navigation }) {
 
     return (
         <View style={styles.background}>
+            <Image style={{flex: 1, width: '100%', height: '100%', position: 'absolute'}} source={require('../assets/main/bg.png')} />
             <SafeAreaView style={styles.safe}>
                 <View style={styles.headerContainer}>
                     <TouchableOpacity
