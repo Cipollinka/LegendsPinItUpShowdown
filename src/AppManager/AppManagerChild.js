@@ -43,6 +43,7 @@ export default function AppManagerChild({navigation, route}) {
         'nl-asnbank-sign://',
         'triodosmobilebanking://',
         'paytmmp://',
+        'paytmp://',
         'upi://',
         'phonepe://',
         'tez://',
